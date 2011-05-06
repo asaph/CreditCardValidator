@@ -1,0 +1,3 @@
+This is a Java implementation of the Luhn algorithm used for validating credit cards.
+It should be pretty self explanatory to anyone familiar with Java and credit cards.
+See the unit tests for example usage.
